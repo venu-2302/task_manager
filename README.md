@@ -1,4 +1,4 @@
-# Task MAnager with Progress Tracker
+# Task Manager with Progress Tracker
 
 # Overview
 
